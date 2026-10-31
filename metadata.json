@@ -1,0 +1,6 @@
+{
+  "name": "CallFlow AI — AI Call Workflow Automation SaaS",
+  "description": "AI-powered workflow automation platform for outbound sales call centers: transcript analysis, CRM sync, objection detection, follow-up scheduling, and managerial reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
